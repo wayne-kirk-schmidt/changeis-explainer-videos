@@ -166,5 +166,3 @@ Support is provided on a best effort basis.
 Feel free to open issues or discussions
 for questions, corrections, or improvements.
 
-Feel free to open issues or discussions
-for questions, corrections, or improvements.
