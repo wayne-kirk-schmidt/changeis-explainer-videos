@@ -141,9 +141,9 @@ Each explainer video follows a consistent three-beat structure:
 
 | Asset | Link |
 |-------|------|
-| ChangeIS Brand Explainer Video | https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/ChangeIS/ChangeIS.Logo.Explainer.Video.mp4 |
-| Maestro Product Explainer Video | https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Maestro/ChangeIS.Maestro.Explainer.Video.mp4 |
-| GuruSuite Video Scripts (PDF) | https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Products/GuruSuite_Video_Scripts.pdf |
+| ChangeIS Brand Explainer Video | [ChangeIS.Logo.Explainer.Video](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/ChangeIS/ChangeIS.Logo.Explainer.Video.mp4) |
+| Maestro Product Explainer Video | [ChangeIS.Maestro.Explainer.Video](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Maestro/ChangeIS.Maestro.Explainer.Video.mp4) |
+| GuruSuite Video Scripts (PDF) | [GuruSuite_Video_Scripts.pdf](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Products/GuruSuite_Video_Scripts.pdf) |
 
 ---
 
