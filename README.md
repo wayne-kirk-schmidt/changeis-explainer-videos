@@ -137,12 +137,40 @@ Each explainer video follows a consistent three-beat structure:
 
 ---
 
-# Explainer Video Links
+# Asset Index
+
+## ChangeIS Brand
 
 | Asset | Link |
 |-------|------|
-| ChangeIS Brand Explainer Video | [ChangeIS.Logo.Explainer.Video](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/ChangeIS/ChangeIS.Logo.Explainer.Video.mp4) |
-| Maestro Product Explainer Video | [ChangeIS.Maestro.Explainer.Video](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Maestro/ChangeIS.Maestro.Explainer.Video.mp4) |
+| Brand Explainer Video | [ChangeIS.Logo.Explainer.Video](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/ChangeIS/ChangeIS.Logo.Explainer.Video.mp4) |
+
+## Logos
+
+| Asset | Link |
+|-------|------|
+| ChangeIS Background | [ChangeIS.Background.png](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Logos/ChangeIS.Background.png) |
+| ChangeIS Logo | [ChangeIS.Logo.png](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Logos/ChangeIS.Logo.png) |
+| ChangeIS Small Logo | [ChangeIS.Small.Logo.png](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Logos/ChangeIS.Small.Logo.png) |
+
+## GuruSuite Products
+
+| Product | Logo | PDF | Video |
+|---------|------|-----|-------|
+| Maestro | [ChangeIS.Maestro.png](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Maestro/ChangeIS.Maestro.png) | [ChangeIS.Maestro.pdf](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Maestro/ChangeIS.Maestro.pdf) | [ChangeIS.Maestro.Video](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Maestro/ChangeIS.Maestro.Video.mp4) |
+| Weavr | [ChangeIS.Weavr.png](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Weavr/ChangeIS.Weavr.png) | [ChangeIS.Weavr.pdf](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Weavr/ChangeIS.Weavr.pdf) | [ChangeIS.Weavr.Video](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Weavr/ChangeIS.Weavr.Video.mp4) |
+| Pulse | [ChangeIS.Pulse.png](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Pulse/ChangeIS.Pulse.png) | [ChangeIS.Pulse.pdf](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Pulse/ChangeIS.Pulse.pdf) | [ChangeIS.Pulse.Video](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Pulse/ChangeIS.Pulse.Video.mp4) |
+| Vigil | [ChangeIS.Vigil.png](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Vigil/ChangeIS.Vigil.png) | [ChangeIS.Vigil.pdf](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Vigil/ChangeIS.Vigil.pdf) | [ChangeIS.Vigil.Video](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Vigil/ChangeIS.Vigil.Video.mp4) |
+| Relay | [ChangeIS.Relay.png](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Relay/ChangeIS.Relay.png) | [ChangeIS.Relay.pdf](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Relay/ChangeIS.Relay.pdf) | [ChangeIS.Relay.Video](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Relay/ChangeIS.Relay.Video.mp4) |
+| Galen | [ChangeIS.Galen.png](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Galen/ChangeIS.Galen.png) | [ChangeIS.Galen.pdf](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Galen/ChangeIS.Galen.pdf) | [ChangeIS.Galen.Video](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Galen/ChangeIS.Galen.Video.mp4) |
+| Nexa | [ChangeIS.Nexa.png](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Nexa/ChangeIS.Nexa.png) | [ChangeIS.Nexa.pdf](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Nexa/ChangeIS.Nexa.pdf) | [ChangeIS.Nexa.Video](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Nexa/ChangeIS.Nexa.Video.mp4) |
+| Haven | [ChangeIS.Haven.png](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Haven/ChangeIS.Haven.png) | [ChangeIS.Haven.pdf](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Haven/ChangeIS.Haven.pdf) | [ChangeIS.Haven.Video](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Haven/ChangeIS.Haven.Video.mp4) |
+| Fluid | [ChangeIS.Fluid.png](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Fluid/ChangeIS.Fluid.png) | [ChangeIS.Fluid.pdf](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Fluid/ChangeIS.Fluid.pdf) | [ChangeIS.Fluid.Video](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Fluid/ChangeIS.Fluid.Video.mp4) |
+
+## Scripts
+
+| Asset | Link |
+|-------|------|
 | GuruSuite Video Scripts (PDF) | [GuruSuite_Video_Scripts.pdf](https://wayne-kirk-schmidt.github.io/changeis-explainer-videos/Products/GuruSuite_Video_Scripts.pdf) |
 
 ---
